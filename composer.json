@@ -1,5 +1,5 @@
 {
-    "name": "cmgmyr/messenger",
+    "name": "0mattoz/messenger",
     "description": "Simple user messaging tool for Laravel",
     "keywords": ["laravel", "messenger", "messaging", "user messaging"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Chris Gmyr",
             "email": "cmgmyr@gmail.com"
+        },
+        {
+            "name": "Matthew Osborne",
+            "email": "0mattoz@gmail.com"
         }
     ],
     "require": {
