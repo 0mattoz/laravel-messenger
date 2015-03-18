@@ -1,9 +1,9 @@
 <?php
 
 use Carbon\Carbon;
-use Cmgmyr\Messenger\Models\Thread;
-use Cmgmyr\Messenger\Models\Message;
-use Cmgmyr\Messenger\Models\Participant;
+use Mattoz0\Messenger\Models\Thread;
+use Mattoz0\Messenger\Models\Message;
+use Mattoz0\Messenger\Models\Participant;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Input;
