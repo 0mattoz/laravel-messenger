@@ -36,7 +36,7 @@ class Participant extends Eloquent
      */
     public function thread()
     {
-        return $this->belongsTo('Cmgmyr\Messenger\Models\Thread');
+        return $this->belongsTo('Mattoz0\Messenger\Models\Thread');
     }
 
     /**
