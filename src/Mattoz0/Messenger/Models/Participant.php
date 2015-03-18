@@ -1,4 +1,4 @@
-<?php namespace Cmgmyr\Messenger\Models;
+<?php namespace Mattoz0\Messenger\Models;
 
 use Illuminate\Support\Facades\Config;
 use Illuminate\Database\Eloquent\Model as Eloquent;
