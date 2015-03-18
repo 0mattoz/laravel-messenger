@@ -1,4 +1,4 @@
-<?php namespace Cmgmyr\Messenger\Traits;
+<?php namespace Mattoz0\Messenger\Traits;
 
 use Cmgmyr\Messenger\Models\Thread;
 use Cmgmyr\Messenger\Models\Participant;
