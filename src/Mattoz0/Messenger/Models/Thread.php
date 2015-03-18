@@ -37,13 +37,13 @@ class Thread extends Eloquent
      */
     public function messages()
     {
-        return $this->hasMany('Cmgmyr\Messenger\Models\Message');
+        return $this->hasMany('Mattoz0\Messenger\Models\Message');
     }
 
     /**
      * Returns the latest message from a thread
      *
-     * @return \Cmgmyr\Messenger\Models\Message
+     * @return \Mattoz0\Messenger\Models\Message
      */
     public function latestMessage()
     {
@@ -57,7 +57,7 @@ class Thread extends Eloquent
      */
     public function participants()
     {
-        return $this->hasMany('Cmgmyr\Messenger\Models\Participant');
+        return $this->hasMany('Mattoz0\Messenger\Models\Participant');
     }
 
     /**
