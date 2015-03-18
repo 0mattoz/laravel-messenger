@@ -18,7 +18,7 @@ class MessengerServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->package('cmgmyr/messenger');
+        $this->package('mattoz0/messenger');
     }
 
     /**
