@@ -1,5 +1,5 @@
 {
-    "name": "0mattoz/messenger",
+    "name": "mattoz0/messenger",
     "description": "Simple user messaging tool for Laravel",
     "keywords": ["laravel", "messenger", "messaging", "user messaging"],
     "license": "MIT",
@@ -30,7 +30,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "0mattoz\\Messenger\\": "src/"
+            "mattoz0\\Messenger\\": "src/"
         }
     },
     "minimum-stability": "stable"
