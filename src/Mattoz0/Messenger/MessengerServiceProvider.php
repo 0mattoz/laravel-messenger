@@ -1,4 +1,4 @@
-<?php namespace Cmgmyr\Messenger;
+<?php namespace Mattoz0\Messenger;
 
 use Illuminate\Support\ServiceProvider;
 
