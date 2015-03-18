@@ -30,7 +30,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "Cmgmyr\\Messenger\\": "src/"
+            "0mattoz\\Messenger\\": "src/"
         }
     },
     "minimum-stability": "stable"
