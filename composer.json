@@ -27,7 +27,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "0mattoz\\Messenger\\": "src/"
+            "Mattoz0\\Messenger\\": "src/"
         }
     },
     "minimum-stability": "stable"
